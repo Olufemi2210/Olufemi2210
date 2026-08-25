@@ -19,8 +19,7 @@
 📍 **Kent, United Kingdom** | Open to Cloud, DevOps & Infrastructure opportunities.
 
 ## 🚀 Featured Project
-
-### Nimbus Cloud Infrastructure & CI/CD Project
+### [Nimbus Cloud Infrastructure & CI/CD Project](https://github.com/Olufemi2210/nimbusproject)
 
 Built a practical Azure cloud environment demonstrating an end-to-end DevOps workflow:
 
