@@ -1,7 +1,17 @@
-## Hi there 👋
-🚀 **AWS Certified Cloud Practitioner**  
-🧠 Currently studying for AZ 104 and CK8  
-🖥️ Exploring IT support, cloud labs, and infrastructure  
-🔧 Practicing Windows setup, EC2 instances, and S3 buckets  
-📚 Eager to grow in cloud, Linux, and desktop support  
-📫 Reach me: oduneyeolufemi22@gmail.com
+# Hi there 👋 I'm Olufemi
+
+☁️ AWS Certified Cloud Practitioner
+
+🚀 Aspiring Cloud / DevOps Engineer
+
+🛠️ Hands-on experience with Azure, AWS, Terraform, Kubernetes, Docker & Linux
+
+☸️ Building and deploying containerised applications to Azure Kubernetes Service (AKS)
+
+🔄 Practicing CI/CD with GitHub Actions, ACR and automated deployments
+
+📚 Currently developing my Azure, Kubernetes and Infrastructure-as-Code skills
+
+📍 Based in Kent, UK | Open to opportunities. 
+
+📧 Reach me: oduneyeolufemi22@gmail.com
